@@ -2,7 +2,7 @@
 ## I am suicidal because of this.
 [![Run on Repl.it](https://repl.it/badge/github/vixenwtf/conduit-server)](https://repl.it/github/vixenwtf/conduit-server) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vixenwtf/conduit-server)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
 ![GitHub](https://img.shields.io/github/license/vixenwtf/conduit?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vixenwtf/conduit?style=for-the-badge)
 ## To install Conduit, steps are below.
